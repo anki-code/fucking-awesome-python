@@ -1069,7 +1069,7 @@ Inspired by [fucking-awesome-go](https://github.com/hvnsweeting/fucking-awesome-
 
 *Shells based on Python.*
 
-* [:octocat: xonsh](https://github.com/xonsh/xonsh/) - :star: 7119 :fork_and_knife: 612 - A Python-powered, cross-platform, Unix-gazing shell language and command prompt.
+* [:octocat: xonsh](https://github.com/xonsh/xonsh/) - :star: 9,053 :fork_and_knife: 681 - Python-powered shell. Full-featured and cross-platform.
 
 ## Specific Formats Processing
 
